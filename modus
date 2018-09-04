@@ -1,0 +1,9 @@
+- unit: spdlog
+  type: headers
+  language: cpp
+  compile flags:
+    public:
+      - -std=c++11
+  include paths:
+    public:
+      - include
