@@ -1,4 +1,4 @@
-- target: spdlog
+- unit: spdlog
   type: headers
   language: cpp
   compile flags:
